@@ -10,3 +10,34 @@
   object-fit:contain;
 }
 
+.youtube {
+  height: 10px;
+} 
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  /*flex-wrap: wrap;*/
+  width: 100%;
+  /*background-color: red;*/
+}
+
+.portfolioDivs {
+  width: 100%;
+}
+
+.container-fluid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.flex1 {
+  flex-direction: row;
+  width:33%;
+}
+
+.flex1 img {
+  width: 100%;
+}
+
