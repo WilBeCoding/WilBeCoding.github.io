@@ -1,0 +1,12 @@
+.mongoImg {
+  height: 65px;
+}
+
+.nodeImg {
+  margin-bottom:-1px;
+}
+
+.devBackgroundImage {
+  object-fit:contain;
+}
+
