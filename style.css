@@ -23,8 +23,17 @@
   flex-wrap: wrap;
   flex-direction: row;
   flex-basis: 100%;
-  width: 100%
+  width: 101%
   /*padding: 0;*/
+}
+
+.devFlex {
+  display:flex;
+  flex-direction: column;
+}
+
+.devFlex .project-category {
+  font-size:1000px;
 }
 
 .flex1 {
