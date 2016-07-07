@@ -49,11 +49,11 @@
   /*flex: 0 0 1;*/
 }
 
-/*.flex1 img {
+.flex1 img {
   width: 100%;
   height: 261px;
 }
-*/
+
 
 @media all and (max-width: 600px) {
 
