@@ -54,6 +54,13 @@
   height: 261px;
 }
 
+header {
+  background: 
+     linear-gradient(
+       rgba(0, 0, 0, 9),
+       rgba(0, 0, 0, 9)
+     );
+}
 
 @media all and (max-width: 600px) {
 
@@ -66,7 +73,7 @@
   }
 
 .portContainer .flex1:nth-child(3){
-  width: ;
+  width: auto;
 }
 
 .flex1 {
