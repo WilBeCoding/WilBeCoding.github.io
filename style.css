@@ -18,6 +18,16 @@
   width: 100%;
 }
 
+.dim-header {
+  position: absolute;
+  width: 57.5%;
+  height: 108.5%;
+  background-color: black;
+  opacity: .7;
+  z-index:-1;
+  margin-left: 18%;
+}
+
 .portContainer {
   display: flex;
   flex-wrap: wrap;
@@ -53,6 +63,7 @@
   width:33%;
 /*  max-width:100%;*/
   /*flex: 0 0 1;*/
+  overflow:hidden;
 }
 
 .wixImg{
@@ -79,10 +90,10 @@
     width: 100%
   }
 
-section {
+/*section {
   padding: 33px 0;
 }
-
+*/
 .portContainer .flex1:nth-child(3){
   width: auto;
 }
